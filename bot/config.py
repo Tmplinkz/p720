@@ -4,8 +4,8 @@ class Config(object):
     SESSION_NAME = get_config("SESSION_NAME", "AHCompressorBot")
     # AHCompressBot....
     # sucks Dude
-    APP_ID = int(get_config("APP_ID", "10840324"))
-    API_HASH = get_config("API_HASH", "a630b9cf17959bcbffd661edbc719e09")
+    APP_ID = int(get_config("APP_ID", "22768681"))
+    API_HASH = get_config("API_HASH", "07debb70a590c8b06f47a31a6761a28b")
     LOG_CHANNEL = get_config("LOG_CHANNEL", "encode_axu")
     UPDATES_CHANNEL = get_config("UPDATES_CHANNEL", None) # Without `@` LOL
      # Get these values from my.telegram.org
